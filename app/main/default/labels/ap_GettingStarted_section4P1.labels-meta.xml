@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ap_GettingStarted_section4P1</fullName>
+        <categories>Action Plans</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ap_GettingStarted Section4P1</shortDescription>
+        <value>&lt;h3&gt;Update Your Profiles&lt;/h3&gt;
+		&lt;br/&gt;&lt;br/&gt;
+		&lt;h4&gt;Users who will use Action Plans require the following permissions on their profile:&lt;/h4&gt;
+		&lt;p&gt;&lt;b&gt;Custom Object Permissions:&lt;/b&gt; Read, Create, Edit and Delete for Action Plans, Action Plan Templates, AP Tasks and APT Task Templates.
+		&lt;/br&gt;Note that if you have a profile that will &quot;read&quot; but not &quot;edit&quot; or &quot;create&quot; templates, you can make Action Plan Templates and APT Tasks Templates read only.&lt;/p&gt;</value>
+    </labels>
+</CustomLabels>

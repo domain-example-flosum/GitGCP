@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Is Selected --></label>
+        <name>Flosum__Is_Selected__c</name>
+    </fields>
+    <fields>
+        <label><!-- Namespace Prifix --></label>
+        <name>Flosum__Namespace_Prifix__c</name>
+    </fields>
+</CustomObjectTranslation>

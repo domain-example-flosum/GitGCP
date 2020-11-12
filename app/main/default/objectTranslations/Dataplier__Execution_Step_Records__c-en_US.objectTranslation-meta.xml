@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Execution Step --></label>
+        <name>Dataplier__Execution_Step__c</name>
+        <relationshipLabel><!-- Execution Step Records --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Number Of Records --></label>
+        <name>Dataplier__Number_Records__c</name>
+    </fields>
+    <fields>
+        <label><!-- Records Ids --></label>
+        <name>Dataplier__Records_Ids__c</name>
+    </fields>
+    <layouts>
+        <layout>Execution Step Records Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+</CustomObjectTranslation>

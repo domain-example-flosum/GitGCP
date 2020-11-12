@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <alerts>
+        <fullName>LeadCreated</fullName>
+        <ccEmails>processleads@15r72j25wyhknnrkvmdncjkan53o2kep51htafu27gl571z2g5.1a-ydsuea4.na24.apex.salesforce.com</ccEmails>
+        <description>LeadCreated</description>
+        <protected>false</protected>
+        <senderType>CurrentUser</senderType>
+        <template>unfiled$public/New_lead_email_template_note</template>
+    </alerts>
+</Workflow>

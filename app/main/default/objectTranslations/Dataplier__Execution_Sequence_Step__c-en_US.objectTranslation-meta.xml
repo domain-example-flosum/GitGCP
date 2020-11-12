@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Data Set Option --></label>
+        <name>Dataplier__Data_Set_Option__c</name>
+        <picklistValues>
+            <masterLabel>Deploy this data set and all parents</masterLabel>
+            <translation><!-- Deploy this data set and all parents --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Overlay this data set by parent records</masterLabel>
+            <translation><!-- Overlay this data set by parent records --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Use this data set independently</masterLabel>
+            <translation><!-- Use this data set independently --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Data Set --></label>
+        <name>Dataplier__Data_Set__c</name>
+        <relationshipLabel><!-- Execution Sequence Steps --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Execution_Сondition --></label>
+        <name>Dataplier__Execution_Condition__c</name>
+        <picklistValues>
+            <masterLabel>Run independently from the previous step</masterLabel>
+            <translation><!-- Run independently from the previous step --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Run on success of the previous step</masterLabel>
+            <translation><!-- Run on success of the previous step --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Execution Sequence --></label>
+        <name>Dataplier__Execution_Sequence__c</name>
+        <relationshipLabel><!-- Execution Sequence Steps --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Filter --></label>
+        <name>Dataplier__Filter__c</name>
+    </fields>
+    <fields>
+        <label><!-- Hierarchy Levels --></label>
+        <name>Dataplier__Hierarchy_Levels__c</name>
+    </fields>
+    <fields>
+        <label><!-- Key Data Set --></label>
+        <name>Dataplier__Key_Data_Set__c</name>
+        <relationshipLabel><!-- Execution Sequence Steps (Key Data Set) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Maximum Deployed --></label>
+        <name>Dataplier__Maximum_Deployed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Not Populated Lookups --></label>
+        <name>Dataplier__Not_Populated_Lookups__c</name>
+    </fields>
+    <fields>
+        <label><!-- Operation --></label>
+        <name>Dataplier__Operation__c</name>
+        <picklistValues>
+            <masterLabel>INSERT</masterLabel>
+            <translation><!-- INSERT --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UPSERT</masterLabel>
+            <translation><!-- UPSERT --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Parent Id Field --></label>
+        <name>Dataplier__Parent_Id_Field__c</name>
+    </fields>
+    <fields>
+        <label><!-- Parent Steps --></label>
+        <name>Dataplier__Parent_Steps__c</name>
+    </fields>
+    <fields>
+        <label><!-- Second Stage Lookups --></label>
+        <name>Dataplier__Second_Stage_Lookups__c</name>
+    </fields>
+    <fields>
+        <label><!-- SelfLookups --></label>
+        <name>Dataplier__SelfLookups__c</name>
+    </fields>
+    <fields>
+        <label><!-- Sequence --></label>
+        <name>Dataplier__Sequence__c</name>
+    </fields>
+    <fields>
+        <label><!-- Step Number --></label>
+        <name>Dataplier__Step_Number__c</name>
+    </fields>
+    <layouts>
+        <layout>Execution Sequence Step Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+</CustomObjectTranslation>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ap_CreatesActionPlansP2</fullName>
+        <categories>Action Plans</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ap_CreatesActionPlansP2</shortDescription>
+        <value>Step 2: Select the template you want to use by  typing the name on the lookup and clicking on it.</value>
+    </labels>
+</CustomLabels>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>21stMarch2019</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>21stMarch2019</value>
+    </caseValues>
+    <fields>
+        <label><!-- PicklistFieldtype --></label>
+        <name>PicklistFieldtype__c</name>
+        <picklistValues>
+            <masterLabel>AddedonMarch21st-18:50</masterLabel>
+            <translation><!-- AddedonMarch21st-18:50 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AddedonMarch21st-18:50-another value</masterLabel>
+            <translation><!-- AddedonMarch21st-18:50-another value --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Created-21stMarch-18:03</masterLabel>
+            <translation><!-- Created-21stMarch-18:03 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Created-21stMarch-18:03-2ndvalue</masterLabel>
+            <translation><!-- Created-21stMarch-18:03-2ndvalue --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

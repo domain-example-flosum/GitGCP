@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Deployment Log --></label>
+        <name>Flosum__Deployment_Log__c</name>
+    </fields>
+    <fields>
+        <label><!-- Deployment URL --></label>
+        <name>Flosum__Deployment_URL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Org --></label>
+        <name>Flosum__Org__c</name>
+        <relationshipLabel><!-- Deployment History --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Deployment Name --></label>
+        <name>Flosum__Patch_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Deployment --></label>
+        <name>Flosum__Patch__c</name>
+        <relationshipLabel><!-- Deployment History --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Snapshot --></label>
+        <name>Flosum__Snapshot__c</name>
+        <relationshipLabel><!-- Deployment History --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Deployed By --></label>
+        <name>Flosum__User__c</name>
+        <relationshipLabel><!-- Deployment History --></relationshipLabel>
+    </fields>
+</CustomObjectTranslation>

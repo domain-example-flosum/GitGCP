@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ap_import_Note</fullName>
+        <categories>Action Plans</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ap_import Note</shortDescription>
+        <value>Are you looking for Best Practices Templates? 
+	    	Please visit the 
+	    	&lt;a href=&quot;http://labs.force.com/templates&quot;&gt;Action Plans Template&lt;/a&gt;
+	    	page on the AppExchange.</value>
+    </labels>
+</CustomLabels>

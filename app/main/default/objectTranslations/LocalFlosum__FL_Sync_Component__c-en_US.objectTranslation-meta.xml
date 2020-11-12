@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- CRC32 --></label>
+        <name>LocalFlosum__CRC32__c</name>
+    </fields>
+    <fields>
+        <label><!-- Changed By --></label>
+        <name>LocalFlosum__Changed_By__c</name>
+    </fields>
+    <fields>
+        <label><!-- Changed On --></label>
+        <name>LocalFlosum__Changed_On__c</name>
+    </fields>
+    <fields>
+        <label><!-- Component Name --></label>
+        <name>LocalFlosum__Component_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Component Type --></label>
+        <name>LocalFlosum__Component_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- File Name --></label>
+        <name>LocalFlosum__File_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Sync --></label>
+        <name>LocalFlosum__Sync__c</name>
+        <relationshipLabel><!-- Sync Components --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- isPure --></label>
+        <name>LocalFlosum__isPure__c</name>
+    </fields>
+    <layouts>
+        <layout>Sync Component Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+</CustomObjectTranslation>

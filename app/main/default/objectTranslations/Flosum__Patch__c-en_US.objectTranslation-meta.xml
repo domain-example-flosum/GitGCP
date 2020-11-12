@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Description --></label>
+        <name>Flosum__Description__c</name>
+    </fields>
+    <fields>
+        <label><!-- Inherited From Patch --></label>
+        <name>Flosum__Inherited_From_Patch__c</name>
+        <relationshipLabel><!-- Deployments --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Is Completed? --></label>
+        <name>Flosum__Is_Completed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Order --></label>
+        <name>Flosum__Order__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner Name --></label>
+        <name>Flosum__Owner_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Destructive Items --></label>
+        <name>Flosum__Total_Destructive_Items__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Items in Deployment --></label>
+        <name>Flosum__Total_Items__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Items in Deployment (Repository) --></label>
+        <name>Flosum__Total_Items_in_Patch_Repository__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Items in Deployment (Deprecated) --></label>
+        <name>Flosum__Total_Items_in_Patch__c</name>
+    </fields>
+    <fields>
+        <label><!-- TransactionId --></label>
+        <name>Flosum__TransactionId__c</name>
+    </fields>
+    <layouts>
+        <layout>Patch Manifest Layout</layout>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- PatchManifest --></label>
+        <name>Flosum__PatchManifest</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Repository --></label>
+        <name>Flosum__Repository</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Snapshot --></label>
+        <name>Flosum__Snapshot</name>
+    </recordTypes>
+    <webLinks>
+        <label><!-- Deploy --></label>
+        <name>Flosum__Deploy</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Impact_Analysis --></label>
+        <name>Flosum__Impact_Analysis</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Merge_Patches --></label>
+        <name>Flosum__Merge_Patches</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Rollback --></label>
+        <name>Flosum__Rollback</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Schedule_Deployment --></label>
+        <name>Flosum__Schedule_Deployment</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Transfer --></label>
+        <name>Flosum__Transfer</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Validate --></label>
+        <name>Flosum__Validate</name>
+    </webLinks>
+</CustomObjectTranslation>

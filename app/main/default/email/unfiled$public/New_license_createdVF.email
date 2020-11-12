@@ -1,0 +1,16 @@
+<messaging:emailTemplate subject="New license has been created: {!relatedTo.Name}" relatedToType="sfLma__License__c">
+<messaging:plainTextEmailBody >
+The following license has been created. Please reach out to them.
+
+Lead Name: {!relatedTo.LeadName__c}
+Company: {!relatedTo.Company_Name__c}
+Email:  {!relatedTo.LeadEmail__c}
+Expiration Date: {!relatedTo.sfLma__Expiration_Date__c}
+Phone: {!relatedTo.leadPhone__c}
+Seats: {!relatedTo.sfLma__Seats__c}
+Package Name: {!relatedTo.Package_Name__c}
+
+Thanks.
+</messaging:plainTextEmailBody>
+
+</messaging:emailTemplate>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <alerts>
+        <fullName>X3_day_warnign</fullName>
+        <description>3 day warning</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>girish@flosum.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>DefaultWorkflowUser</senderType>
+        <template>unfiled$public/Trial_expiry</template>
+    </alerts>
+</Workflow>

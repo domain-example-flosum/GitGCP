@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ap_GettingStarted_section3</fullName>
+        <categories>Action Plans</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ap_GettingStarted Section3</shortDescription>
+        <value>&lt;h3&gt;Update Your Sharing Settings&lt;/h3&gt;
+		&lt;br/&gt;
+		&lt;p&gt;Action Plans includes four objects: Action Plan, Action Plan Template, AP Task and APT Task. You can configure your sharing settings in whatever way works for your organization.&lt;/p&gt;
+		&lt;p&gt;If you want anyone to be able to create and see plans and their templates, use Public Read/Write for Action Plan and Action Plan Template.&lt;/p&gt;
+		&lt;p&gt;If you want people to be able to see Action Plans and Templates without being able to change them, select &quot;Public Read Only&quot;.&lt;/p&gt;
+		&lt;/br&gt;
+		&lt;p&gt;Please note that if you set your Action Plan Template object to private, templates will not be visible outside of other sharing rules you might set up. This may make Action Plans somewhat less useful.&lt;/p&gt;</value>
+    </labels>
+</CustomLabels>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- AuthName --></label>
+        <name>Dataplier__AuthName__c</name>
+    </fields>
+    <fields>
+        <label><!-- Completed Date --></label>
+        <name>Dataplier__Completed_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- ETA --></label>
+        <name>Dataplier__ETA__c</name>
+    </fields>
+    <fields>
+        <label><!-- Destination Org --></label>
+        <name>Dataplier__Org__c</name>
+        <relationshipLabel><!-- Migration Jobs --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Execution Sequence --></label>
+        <name>Dataplier__Sequence__c</name>
+        <relationshipLabel><!-- Migration Jobs --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Space required (KB) --></label>
+        <name>Dataplier__Space_required__c</name>
+    </fields>
+    <fields>
+        <label><!-- Start Date --></label>
+        <name>Dataplier__Start_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Dataplier__Status__c</name>
+        <picklistValues>
+            <masterLabel>Canceled</masterLabel>
+            <translation><!-- Canceled --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Completed</masterLabel>
+            <translation><!-- Completed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Migration</masterLabel>
+            <translation><!-- Migration --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Preparation</masterLabel>
+            <translation><!-- Preparation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Queued</masterLabel>
+            <translation><!-- Queued --></translation>
+        </picklistValues>
+    </fields>
+    <recordTypes>
+        <label><!-- Migration_Job --></label>
+        <name>Dataplier__Migration_Job</name>
+    </recordTypes>
+    <webLinks>
+        <label><!-- Details --></label>
+        <name>Dataplier__Details</name>
+    </webLinks>
+</CustomObjectTranslation>

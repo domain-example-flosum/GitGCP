@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <alerts>
+        <fullName>Send_email_that_you_cannot_use_personal_email</fullName>
+        <ccEmails>flosum.trial@gmail.com</ccEmails>
+        <description>Do not use personal email address</description>
+        <protected>false</protected>
+        <recipients>
+            <type>campaignMemberDerivedOwner</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>unfiled$public/License</template>
+    </alerts>
+</Workflow>

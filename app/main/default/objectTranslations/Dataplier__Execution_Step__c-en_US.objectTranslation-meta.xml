@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Сondition --></label>
+        <name>Dataplier__Condition__c</name>
+    </fields>
+    <fields>
+        <label><!-- Data Set Option --></label>
+        <name>Dataplier__Data_Set_Option__c</name>
+    </fields>
+    <fields>
+        <label><!-- Execution Sequence Step --></label>
+        <name>Dataplier__Execution_Sequence_Step__c</name>
+        <relationshipLabel><!-- Execution Steps --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Execution --></label>
+        <name>Dataplier__Execution__c</name>
+        <relationshipLabel><!-- Execution Steps --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Filter --></label>
+        <name>Dataplier__Filter__c</name>
+    </fields>
+    <fields>
+        <label><!-- Hierarchy Levels --></label>
+        <name>Dataplier__Hierarchy_Levels__c</name>
+    </fields>
+    <fields>
+        <label><!-- Key Fields --></label>
+        <name>Dataplier__Key_Fields__c</name>
+    </fields>
+    <fields>
+        <help><!-- Used in dinamic sequence generation --></help>
+        <label><!-- Lookup Fields --></label>
+        <name>Dataplier__Lookup_Fields__c</name>
+    </fields>
+    <fields>
+        <label><!-- Masked Fields --></label>
+        <name>Dataplier__Masked_Fields__c</name>
+    </fields>
+    <fields>
+        <label><!-- Maximum Deployed --></label>
+        <name>Dataplier__Maximum_Deployed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Not Populated Lookups --></label>
+        <name>Dataplier__Not_Populated_Lookups__c</name>
+    </fields>
+    <fields>
+        <label><!-- Object API Name --></label>
+        <name>Dataplier__Object_API_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Object Fields --></label>
+        <name>Dataplier__Object_Fields__c</name>
+    </fields>
+    <fields>
+        <label><!-- Operation --></label>
+        <name>Dataplier__Operation__c</name>
+        <picklistValues>
+            <masterLabel>INSERT</masterLabel>
+            <translation><!-- INSERT --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UPSERT</masterLabel>
+            <translation><!-- UPSERT --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Parent Id Field --></label>
+        <name>Dataplier__Parent_Id_Field__c</name>
+    </fields>
+    <fields>
+        <label><!-- Parent Steps --></label>
+        <name>Dataplier__Parent_Steps__c</name>
+    </fields>
+    <fields>
+        <label><!-- Query --></label>
+        <name>Dataplier__Query__c</name>
+    </fields>
+    <fields>
+        <label><!-- Records Failed --></label>
+        <name>Dataplier__Records_Failed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Records Processed --></label>
+        <name>Dataplier__Records_Processed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Second Stage Lookups --></label>
+        <name>Dataplier__Second_Stage_Lookups__c</name>
+    </fields>
+    <fields>
+        <label><!-- SelfLookups --></label>
+        <name>Dataplier__SelfLookups__c</name>
+    </fields>
+    <fields>
+        <label><!-- Sequence --></label>
+        <name>Dataplier__Sequence__c</name>
+    </fields>
+    <fields>
+        <label><!-- Space required --></label>
+        <name>Dataplier__Space_Required__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Dataplier__Status__c</name>
+        <picklistValues>
+            <masterLabel>Completed</masterLabel>
+            <translation><!-- Completed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Faled</masterLabel>
+            <translation><!-- Faled --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>In Progress</masterLabel>
+            <translation><!-- In Progress --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Started</masterLabel>
+            <translation><!-- Not Started --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Retrieved</masterLabel>
+            <translation><!-- Retrieved --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Total batches --></label>
+        <name>Dataplier__Total_batches__c</name>
+    </fields>
+    <layouts>
+        <layout>Execution Step Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <description><!-- for test --></description>
+        <label><!-- ExecutionStep --></label>
+        <name>Dataplier__ExecutionStep</name>
+    </recordTypes>
+</CustomObjectTranslation>

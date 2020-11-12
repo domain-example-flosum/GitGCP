@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Component Name --></label>
+        <name>Flosum__API_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Attachment ID --></label>
+        <name>Flosum__Attachment_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- CRC32 --></label>
+        <name>Flosum__CRC32__c</name>
+    </fields>
+    <fields>
+        <label><!-- Component Type --></label>
+        <name>Flosum__Component_Type__c</name>
+        <picklistValues>
+            <masterLabel>ActionLinkGroupTemplate</masterLabel>
+            <translation><!-- ActionLinkGroupTemplate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AnalyticSnapshot</masterLabel>
+            <translation><!-- AnalyticSnapshot --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ApexClass</masterLabel>
+            <translation><!-- ApexClass --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Folder --></label>
+        <name>Flosum__Folder__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is Retrieved --></label>
+        <name>Flosum__Is_Retrieved__c</name>
+    </fields>
+    <fields>
+        <label><!-- Label --></label>
+        <name>Flosum__Label__c</name>
+    </fields>
+    <fields>
+        <label><!-- Changed On --></label>
+        <name>Flosum__Last_Modified_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Changed By --></label>
+        <name>Flosum__Last_Updated_By__c</name>
+    </fields>
+    <fields>
+        <label><!-- Component Name --></label>
+        <name>Flosum__Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Old Attachment IDs --></label>
+        <name>Flosum__Old_Attachment_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- Org --></label>
+        <name>Flosum__OrganisationName__c</name>
+        <relationshipLabel><!-- Latest Components --></relationshipLabel>
+    </fields>
+    <layouts>
+        <layout>Org Component Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <webLinks>
+        <label><!-- Commit_To_Branch --></label>
+        <name>Flosum__Commit_To_Branch</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Track_Changes --></label>
+        <name>Flosum__Track_Changes</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Transfer_To_Patch --></label>
+        <name>Flosum__Transfer_To_Patch</name>
+    </webLinks>
+</CustomObjectTranslation>

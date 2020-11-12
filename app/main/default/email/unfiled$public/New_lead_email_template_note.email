@@ -1,0 +1,5 @@
+Name:  {!Lead.Name}
+Company:  {!Lead.Company}
+Title:  {!Lead.Title}
+Phone:  {!Lead.Phone}
+Email:  {!Lead.Email}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ap_CreateTemplateOlpart2</fullName>
+        <categories>Action Plans</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ap_CreateTemplateOlpart2</shortDescription>
+        <value>&lt;li&gt;Days After-  This value determines the due date of the task.
+        		&lt;ol&gt;
+        		&lt;li&gt;For tasks with no dependency, the task’s due date will be offset from the plan start date.&lt;/li&gt;
+        		&lt;li&gt; For tasks with a dependency, the due date will be offset from the expected due date of the task on which it depends on.&lt;/li&gt;
+        		&lt;/ol&gt;  
+        		&lt;/li&gt;
+			&lt;li&gt;
+				Assigned To – Looks up to user.  Leave blank if you want to assign the task dynamically.  
+				When assigning dynamically, the default behavior will be to assign the task to the running user.  
+				You can also have the system assign it to the record owner by changing your Action Plan Settings.  
+				See &quot;Post Install Configuration&quot; guide above. 
+			&lt;/li&gt;
+			&lt;li&gt;Category - What type of activity.&lt;/li&gt;
+			&lt;li&gt;Priority - Low, medium or high.&lt;/li&gt;
+			&lt;li&gt;Email - Send a standard New Task email when checked. For Tasks depending on others, the email will be sent when the task is created.&lt;/li&gt;</value>
+    </labels>
+</CustomLabels>

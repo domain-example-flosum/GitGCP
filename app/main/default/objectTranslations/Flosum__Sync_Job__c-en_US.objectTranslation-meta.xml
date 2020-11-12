@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Branch --></label>
+        <name>Flosum__BranchId__c</name>
+        <relationshipLabel><!-- Sync Jobs --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Branch Name --></label>
+        <name>Flosum__Branch_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Comment --></label>
+        <name>Flosum__Comment__c</name>
+    </fields>
+    <fields>
+        <label><!-- Commit On --></label>
+        <name>Flosum__Commit_On__c</name>
+    </fields>
+    <fields>
+        <label><!-- Commit --></label>
+        <name>Flosum__Commit__c</name>
+    </fields>
+    <fields>
+        <label><!-- Committer --></label>
+        <name>Flosum__Committer__c</name>
+    </fields>
+    <fields>
+        <label><!-- Repository Settings --></label>
+        <name>Flosum__CredentialsId__c</name>
+        <relationshipLabel><!-- Sync Jobs --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Fails --></label>
+        <name>Flosum__Fails__c</name>
+    </fields>
+    <fields>
+        <label><!-- Log --></label>
+        <name>Flosum__Log__c</name>
+    </fields>
+    <fields>
+        <label><!-- Number --></label>
+        <name>Flosum__Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- State --></label>
+        <name>Flosum__State__c</name>
+        <picklistValues>
+            <masterLabel>CANCELED</masterLabel>
+            <translation><!-- CANCELED --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>DONE</masterLabel>
+            <translation><!-- DONE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>INPROGRESS</masterLabel>
+            <translation><!-- INPROGRESS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PARTIALLY DONE</masterLabel>
+            <translation><!-- PARTIALLY DONE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>QUEUED</masterLabel>
+            <translation><!-- QUEUED --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Sync_OperationId --></label>
+        <name>Flosum__Sync_OperationId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Type --></label>
+        <name>Flosum__Type__c</name>
+        <picklistValues>
+            <masterLabel>GITSF</masterLabel>
+            <translation><!-- GITSF --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SFGIT</masterLabel>
+            <translation><!-- SFGIT --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- UserId --></label>
+        <name>Flosum__UserId__c</name>
+    </fields>
+    <fields>
+        <label><!-- isSuccess --></label>
+        <name>Flosum__isSuccess__c</name>
+    </fields>
+</CustomObjectTranslation>

@@ -1,0 +1,5 @@
+Lead: {!sfLma__License__c.sfLma__Lead__c}
+First Name: {!Lead.FirstName}
+Last Name: {!Lead.LastName}
+Email: {!Lead.Email}
+Expiration date: {!sfLma__License__c.sfLma__Expiration_Date__c}

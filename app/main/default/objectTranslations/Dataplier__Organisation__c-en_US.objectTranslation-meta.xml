@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- HostName --></label>
+        <name>Dataplier__HostName__c</name>
+    </fields>
+    <fields>
+        <label><!-- Latest Test Execution Result --></label>
+        <name>Dataplier__Lattest_Test_Execution_Result__c</name>
+    </fields>
+    <fields>
+        <label><!-- Organization ID --></label>
+        <name>Dataplier__Organisation_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- Organization Type --></label>
+        <name>Dataplier__Organisation_Type__c</name>
+        <picklistValues>
+            <masterLabel>Developer/Production</masterLabel>
+            <translation><!-- Developer/Production --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Government cloud org</masterLabel>
+            <translation><!-- Government cloud org --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sandbox</masterLabel>
+            <translation><!-- Sandbox --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- User Full Name --></label>
+        <name>Dataplier__User_Full_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Username --></label>
+        <name>Dataplier__Username__c</name>
+    </fields>
+</CustomObjectTranslation>

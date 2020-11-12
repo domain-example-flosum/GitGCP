@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ap_Errors_InvalidXMLTemplate</fullName>
+        <categories>Action Plans</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ap_Errors_InvalidXMLTemplate</shortDescription>
+        <value>This is an invalid XML template, please export a new Action Plans Template and try again.</value>
+    </labels>
+</CustomLabels>

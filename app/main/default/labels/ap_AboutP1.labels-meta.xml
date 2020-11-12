@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ap_AboutP1</fullName>
+        <categories>Action Plans</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ap_AboutP1</shortDescription>
+        <value>&lt;p&gt;Action Plans helps your organization encapsulate best practices into easily sharable, reusable task templates.&lt;br/&gt;&lt;br/&gt;
+        	You can create Action Plans for the following objects (varies by edition):&lt;/p&gt;
+	        &lt;ul&gt;
+				&lt;li&gt;Accounts (PE, EE, UE, DE)&lt;/li&gt;
+				&lt;li&gt;Contacts (PE, EE, UE, DE)&lt;/li&gt;
+				&lt;li&gt;Leads (PE, EE, UE, DE)&lt;/li&gt;
+				&lt;li&gt;Opportunities (PE, EE, UE, DE)&lt;/li&gt;
+				&lt;li&gt;Campaigns (EE, UE, DE)&lt;/li&gt;
+				&lt;li&gt;Contracts (EE, UE, DE)&lt;/li&gt;
+				&lt;li&gt;Cases (EE, UE, DE)&lt;/li&gt;
+				&lt;li&gt;Person Accounts (EE, UE, DE)&lt;/li&gt;
+			&lt;/ul&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;</value>
+    </labels>
+</CustomLabels>

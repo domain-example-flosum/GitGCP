@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ap_Errors_ImportingXMLTemplate</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ap_Errors_ImportingXMLTemplate</shortDescription>
+        <value>There was a problem importing your Action Plans Template, review your Template XML or try exporting it again.</value>
+    </labels>
+</CustomLabels>

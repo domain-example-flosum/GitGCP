@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ap_Confirm_Action_Plan_Deletion</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ap Confirm Action Plan Deletion</shortDescription>
+        <value>The selected Action Plans will be deleted. Since the Delete process will run in the background, the Action Plans selected for Delete may not be removed from the list immediately.\n\nAre you sure you want to delete selected Action Plans?</value>
+    </labels>
+</CustomLabels>

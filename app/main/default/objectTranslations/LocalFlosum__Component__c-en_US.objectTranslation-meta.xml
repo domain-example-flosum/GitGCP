@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- CRC32 --></label>
+        <name>LocalFlosum__CRC32__c</name>
+    </fields>
+    <fields>
+        <label><!-- Changed On --></label>
+        <name>LocalFlosum__Changed_On__c</name>
+    </fields>
+    <fields>
+        <label><!-- Committed On --></label>
+        <name>LocalFlosum__Committed_On__c</name>
+    </fields>
+    <fields>
+        <label><!-- Component Name --></label>
+        <name>LocalFlosum__Component_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Component Type --></label>
+        <name>LocalFlosum__Component_Type__c</name>
+        <picklistValues>
+            <masterLabel>ActionLinkGroupTemplate</masterLabel>
+            <translation><!-- ActionLinkGroupTemplate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AnalyticSnapshot</masterLabel>
+            <translation><!-- AnalyticSnapshot --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ApexClass</masterLabel>
+            <translation><!-- ApexClass --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ApexComponent</masterLabel>
+            <translation><!-- ApexComponent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ApexPage</masterLabel>
+            <translation><!-- ApexPage --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ApexTrigger</masterLabel>
+            <translation><!-- ApexTrigger --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AppMenu</masterLabel>
+            <translation><!-- AppMenu --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ApprovalProcess</masterLabel>
+            <translation><!-- ApprovalProcess --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AssignmentRule</masterLabel>
+            <translation><!-- AssignmentRule --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AssignmentRules</masterLabel>
+            <translation><!-- AssignmentRules --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AuraDefinitionBundle</masterLabel>
+            <translation><!-- AuraDefinitionBundle --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AuthProvider</masterLabel>
+            <translation><!-- AuthProvider --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AutoResponseRule</masterLabel>
+            <translation><!-- AutoResponseRule --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AutoResponseRules</masterLabel>
+            <translation><!-- AutoResponseRules --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>BaseSharingRule</masterLabel>
+            <translation><!-- BaseSharingRule --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>BusinessProcess</masterLabel>
+            <translation><!-- BusinessProcess --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CallCenter</masterLabel>
+            <translation><!-- CallCenter --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Certificate</masterLabel>
+            <translation><!-- Certificate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ChannelLayout</masterLabel>
+            <translation><!-- ChannelLayout --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Community</masterLabel>
+            <translation><!-- Community --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CompactLayout</masterLabel>
+            <translation><!-- CompactLayout --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ConnectedApp</masterLabel>
+            <translation><!-- ConnectedApp --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CorsWhitelistOrigin</masterLabel>
+            <translation><!-- CorsWhitelistOrigin --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CriteriaBasedSharingRule</masterLabel>
+            <translation><!-- CriteriaBasedSharingRule --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CustomApplication</masterLabel>
+            <translation><!-- CustomApplication --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CustomApplicationComponent</masterLabel>
+            <translation><!-- CustomApplicationComponent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CustomField</masterLabel>
+            <translation><!-- CustomField --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CustomLabel</masterLabel>
+            <translation><!-- CustomLabel --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CustomLabels</masterLabel>
+            <translation><!-- CustomLabels --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CustomMetadata</masterLabel>
+            <translation><!-- CustomMetadata --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CustomObject</masterLabel>
+            <translation><!-- CustomObject --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CustomObjectTranslation</masterLabel>
+            <translation><!-- CustomObjectTranslation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CustomPageWebLink</masterLabel>
+            <translation><!-- CustomPageWebLink --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CustomPermission</masterLabel>
+            <translation><!-- CustomPermission --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CustomSite</masterLabel>
+            <translation><!-- CustomSite --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CustomTab</masterLabel>
+            <translation><!-- CustomTab --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dashboard</masterLabel>
+            <translation><!-- Dashboard --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>DashboardFolder</masterLabel>
+            <translation><!-- DashboardFolder --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>DataCategoryGroup</masterLabel>
+            <translation><!-- DataCategoryGroup --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>DelegateGroup</masterLabel>
+            <translation><!-- DelegateGroup --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Document</masterLabel>
+            <translation><!-- Document --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>DocumentFolder</masterLabel>
+            <translation><!-- DocumentFolder --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>EmailFolder</masterLabel>
+            <translation><!-- EmailFolder --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>EmailTemplate</masterLabel>
+            <translation><!-- EmailTemplate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>EmailTemplateFolder</masterLabel>
+            <translation><!-- EmailTemplateFolder --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>EntitlementProcess</masterLabel>
+            <translation><!-- EntitlementProcess --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>EntitlementTemplate</masterLabel>
+            <translation><!-- EntitlementTemplate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>EscalationRule</masterLabel>
+            <translation><!-- EscalationRule --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>EscalationRules</masterLabel>
+            <translation><!-- EscalationRules --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ExternalDataSource</masterLabel>
+            <translation><!-- ExternalDataSource --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>FieldSet</masterLabel>
+            <translation><!-- FieldSet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>FlexiPage</masterLabel>
+            <translation><!-- FlexiPage --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Flow</masterLabel>
+            <translation><!-- Flow --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>FlowDefinition</masterLabel>
+            <translation><!-- FlowDefinition --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GlobalPicklist</masterLabel>
+            <translation><!-- GlobalPicklist --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Group</masterLabel>
+            <translation><!-- Group --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HomePageComponent</masterLabel>
+            <translation><!-- HomePageComponent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HomePageLayout</masterLabel>
+            <translation><!-- HomePageLayout --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>InstalledPackage</masterLabel>
+            <translation><!-- InstalledPackage --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Layout</masterLabel>
+            <translation><!-- Layout --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Letterhead</masterLabel>
+            <translation><!-- Letterhead --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ListView</masterLabel>
+            <translation><!-- ListView --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MatchingRules</masterLabel>
+            <translation><!-- MatchingRules --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MilestoneType</masterLabel>
+            <translation><!-- MilestoneType --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NamedCredential</masterLabel>
+            <translation><!-- NamedCredential --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PathAssistant</masterLabel>
+            <translation><!-- PathAssistant --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PermissionSet</masterLabel>
+            <translation><!-- PermissionSet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PlatformCachePartition</masterLabel>
+            <translation><!-- PlatformCachePartition --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PostTemplate</masterLabel>
+            <translation><!-- PostTemplate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Profile</masterLabel>
+            <translation><!-- Profile --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Queue</masterLabel>
+            <translation><!-- Queue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>QuickAction</masterLabel>
+            <translation><!-- QuickAction --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>RecordType</masterLabel>
+            <translation><!-- RecordType --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>RemoteSiteSetting</masterLabel>
+            <translation><!-- RemoteSiteSetting --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Report</masterLabel>
+            <translation><!-- Report --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ReportFolder</masterLabel>
+            <translation><!-- ReportFolder --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ReportType</masterLabel>
+            <translation><!-- ReportType --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Role</masterLabel>
+            <translation><!-- Role --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SamlSsoConfig</masterLabel>
+            <translation><!-- SamlSsoConfig --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Scontrol</masterLabel>
+            <translation><!-- Scontrol --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Settings</masterLabel>
+            <translation><!-- Settings --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SharingCriteriaRule</masterLabel>
+            <translation><!-- SharingCriteriaRule --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SharingOwnerRule</masterLabel>
+            <translation><!-- SharingOwnerRule --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SharingReason</masterLabel>
+            <translation><!-- SharingReason --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SharingSet</masterLabel>
+            <translation><!-- SharingSet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SiteDotCom</masterLabel>
+            <translation><!-- SiteDotCom --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>StaticResource</masterLabel>
+            <translation><!-- StaticResource --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SynonymDictionary</masterLabel>
+            <translation><!-- SynonymDictionary --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ValidationRule</masterLabel>
+            <translation><!-- ValidationRule --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WebLink</masterLabel>
+            <translation><!-- WebLink --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Workflow</masterLabel>
+            <translation><!-- Workflow --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WorkflowAlert</masterLabel>
+            <translation><!-- WorkflowAlert --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WorkflowFieldUpdate</masterLabel>
+            <translation><!-- WorkflowFieldUpdate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WorkflowOutboundMessage</masterLabel>
+            <translation><!-- WorkflowOutboundMessage --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WorkflowRule</masterLabel>
+            <translation><!-- WorkflowRule --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WorkflowTask</masterLabel>
+            <translation><!-- WorkflowTask --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- File Name --></label>
+        <name>LocalFlosum__File_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Committed By --></label>
+        <name>LocalFlosum__Last_Modified_By__c</name>
+    </fields>
+    <fields>
+        <label><!-- Changed By --></label>
+        <name>LocalFlosum__Last_Updated_By__c</name>
+    </fields>
+    <fields>
+        <label><!-- Version --></label>
+        <name>LocalFlosum__Version__c</name>
+    </fields>
+    <fields>
+        <label><!-- isPure --></label>
+        <name>LocalFlosum__isPure__c</name>
+    </fields>
+</CustomObjectTranslation>

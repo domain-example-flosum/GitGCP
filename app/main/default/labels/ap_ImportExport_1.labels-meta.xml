@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ap_ImportExport_1</fullName>
+        <categories>Action Plans</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ap_ImportExport_1</shortDescription>
+        <value>Action Plans now supports the sharing and discovery of best practices using Template Export and Template Import.  
+			&lt;br/&gt;&lt;br/&gt;
+			How to Share Your Template
+			&lt;br/&gt;&lt;br/&gt;
+			Export is simple.  Simply navigate to the Template you wish to export.  Click on the &quot;Export&quot; button.</value>
+    </labels>
+</CustomLabels>

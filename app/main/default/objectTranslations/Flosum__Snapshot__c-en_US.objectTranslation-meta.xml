@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Apex Is Completed --></label>
+        <name>Flosum__Apex_Is_Completed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Feature --></label>
+        <name>Flosum__Feature__c</name>
+    </fields>
+    <fields>
+        <label><!-- Filter --></label>
+        <name>Flosum__Filter__c</name>
+    </fields>
+    <fields>
+        <help><!-- Checked if Snapshot has been created successfully --></help>
+        <label><!-- Is Completed? --></label>
+        <name>Flosum__Is_Completed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is Error? --></label>
+        <name>Flosum__Is_Error__c</name>
+    </fields>
+    <fields>
+        <label><!-- JS Is Completed --></label>
+        <name>Flosum__JS_Is_Completed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Last Modified In Days --></label>
+        <name>Flosum__Last_Modified_In_Days__c</name>
+    </fields>
+    <fields>
+        <label><!-- External Repository --></label>
+        <name>Flosum__Link__c</name>
+    </fields>
+    <fields>
+        <label><!-- No. of Apex Classes --></label>
+        <name>Flosum__No_of_Apex_Classes__c</name>
+    </fields>
+    <fields>
+        <label><!-- No. of Apex Pages --></label>
+        <name>Flosum__No_of_Apex_Pages__c</name>
+    </fields>
+    <fields>
+        <label><!-- No. of Apex Triggers --></label>
+        <name>Flosum__No_of_Apex_Triggers__c</name>
+    </fields>
+    <fields>
+        <label><!-- No. of Custom Labels --></label>
+        <name>Flosum__No_of_Custom_Labels__c</name>
+    </fields>
+    <fields>
+        <label><!-- No. of Custom Objects --></label>
+        <name>Flosum__No_of_Custom_Objects__c</name>
+    </fields>
+    <fields>
+        <label><!-- No. of Groups --></label>
+        <name>Flosum__No_of_Groups__c</name>
+    </fields>
+    <fields>
+        <label><!-- No. of Metadata Items --></label>
+        <name>Flosum__No_of_Metadata_Items__c</name>
+    </fields>
+    <fields>
+        <label><!-- No. of Record Types --></label>
+        <name>Flosum__No_of_Record_Types__c</name>
+    </fields>
+    <fields>
+        <label><!-- No. of Reports --></label>
+        <name>Flosum__No_of_Reports__c</name>
+    </fields>
+    <fields>
+        <label><!-- No. of Workflow Rules --></label>
+        <name>Flosum__No_of_Workflow_Rules__c</name>
+    </fields>
+    <fields>
+        <label><!-- Organization --></label>
+        <name>Flosum__Organisation__c</name>
+        <relationshipLabel><!-- Snapshots --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Other Metadata Items --></label>
+        <name>Flosum__Other_Metadata_Items__c</name>
+    </fields>
+    <fields>
+        <label><!-- Items Referenced In Deployments --></label>
+        <name>Flosum__Total_Patch_Items__c</name>
+    </fields>
+    <fields>
+        <label><!-- From Git --></label>
+        <name>Flosum__from_Git__c</name>
+    </fields>
+    <fields>
+        <label><!-- isExtensible --></label>
+        <name>Flosum__isExtensible__c</name>
+    </fields>
+    <layouts>
+        <layout>Snapshot Layout</layout>
+        <sections>
+            <label><!-- Snapshot Summary --></label>
+            <section>Snapshot Summary</section>
+        </sections>
+    </layouts>
+    <webLinks>
+        <label><!-- Commit --></label>
+        <name>Flosum__Commit</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Deploy --></label>
+        <name>Flosum__Deploy</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Download_Components --></label>
+        <name>Flosum__Download_Components</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Object_Report --></label>
+        <name>Flosum__Object_Report</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Re_Create_Snapshot --></label>
+        <name>Flosum__Re_Create_Snapshot</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Repository --></label>
+        <name>Flosum__Repository</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Snapshot_Comparison --></label>
+        <name>Flosum__Snapshot_Comparison</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Validate --></label>
+        <name>Flosum__Validate</name>
+    </webLinks>
+</CustomObjectTranslation>

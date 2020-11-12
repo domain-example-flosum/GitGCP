@@ -1,0 +1,5 @@
+Hi {!Lead.FirstName},
+
+Thank you for trying out {Flosum|Data Migrator}. We see that you have used a personal email address to start the trial. According to our contracts with Salesforce, we can only allow a certain number of trails. We recommend to use your corporate email address to launch the trial. For your convenience, we have expired the trial.
+
+Thanks

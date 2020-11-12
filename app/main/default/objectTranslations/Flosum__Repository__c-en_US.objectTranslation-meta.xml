@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Branches To Deploy --></label>
+        <name>Flosum__Branches_To_Deploy__c</name>
+    </fields>
+    <fields>
+        <label><!-- Build and Deploy Organization --></label>
+        <name>Flosum__Build_and_Deploy_Organization__c</name>
+        <relationshipLabel><!-- Repositories --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Build and Deploy Organizations --></label>
+        <name>Flosum__Build_and_Deploy_Organizations__c</name>
+    </fields>
+    <fields>
+        <label><!-- CI Mode --></label>
+        <name>Flosum__Deployment_Mode__c</name>
+        <picklistValues>
+            <masterLabel>DEPLOY</masterLabel>
+            <translation><!-- DEPLOY --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VALIDATE</masterLabel>
+            <translation><!-- VALIDATE --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- CI Deployment Style --></label>
+        <name>Flosum__Deployment_Style__c</name>
+        <picklistValues>
+            <masterLabel>CONTINUE ON FAILURE</masterLabel>
+            <translation><!-- CONTINUE ON FAILURE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>STOP ON FAILURE</masterLabel>
+            <translation><!-- STOP ON FAILURE --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Is Build For Branch --></label>
+        <name>Flosum__Is_Build_For_Branch__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is Build For Repository --></label>
+        <name>Flosum__Is_Build_For_Repository__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is Default Repository --></label>
+        <name>Flosum__Is_Default_Repository__c</name>
+    </fields>
+    <fields>
+        <label><!-- Last Commit --></label>
+        <name>Flosum__Last_Commit__c</name>
+    </fields>
+    <fields>
+        <label><!-- Pipeline --></label>
+        <name>Flosum__Pipeline__c</name>
+        <relationshipLabel><!-- Repositories --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Run Tests on Deployment --></label>
+        <name>Flosum__Run_Tests_on_Deployment__c</name>
+    </fields>
+    <fields>
+        <label><!-- Specified Tests --></label>
+        <name>Flosum__Specified_Tests__c</name>
+    </fields>
+    <layouts>
+        <layout>Repository Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+</CustomObjectTranslation>

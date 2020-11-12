@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Active --></label>
+        <name>Flosum__Active__c</name>
+    </fields>
+    <fields>
+        <label><!-- Expired --></label>
+        <name>Flosum__Expired__c</name>
+    </fields>
+    <fields>
+        <label><!-- JobId --></label>
+        <name>Flosum__JobId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Sync JobId --></label>
+        <name>Flosum__Sync_JobId__c</name>
+    </fields>
+    <fields>
+        <label><!-- System_Name --></label>
+        <name>Flosum__System_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- TaskId --></label>
+        <name>Flosum__TaskId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Username --></label>
+        <name>Flosum__Username__c</name>
+    </fields>
+</CustomObjectTranslation>

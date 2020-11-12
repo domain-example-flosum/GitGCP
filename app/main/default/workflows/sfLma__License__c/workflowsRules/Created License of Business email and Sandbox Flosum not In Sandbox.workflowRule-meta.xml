@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <rules>
+        <fullName>Created License of Business email and Sandbox Flosum not In Sandbox</fullName>
+        <actions>
+            <name>license_for_Flosum_Email</name>
+            <type>Alert</type>
+        </actions>
+        <actions>
+            <name>Expire_license_flosum</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <active>true</active>
+        <criteriaItems>
+            <field>sfLma__License__c.isBusinessEmail__c</field>
+            <operation>equals</operation>
+            <value>True</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>sfLma__License__c.sfLma__Seats__c</field>
+            <operation>equals</operation>
+            <value>-1</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>sfLma__License__c.FlosumStatus__c</field>
+            <operation>equals</operation>
+            <value>Flosum - Trials to be tracked</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>sfLma__License__c.LeadSource__c</field>
+            <operation>equals</operation>
+            <value>False</value>
+        </criteriaItems>
+        <description>Logic validate is Business Email in Leads == true
+(Used Business email) AND Lead isn&apos;t created becouse of sandbox refresh
+for Flosum Licenses in a Sandbox</description>
+        <triggerType>onCreateOnly</triggerType>
+    </rules>
+</Workflow>

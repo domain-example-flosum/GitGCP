@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ap_CreatesActionPlansP3</fullName>
+        <categories>Action Plans</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ap_CreatesActionPlansP3</shortDescription>
+        <value>Step 3: Enter the information specific to this plan.  Note that the accounts you selected earlier are visible and that the &quot;Assign To&quot; has been completed using the current user.</value>
+    </labels>
+</CustomLabels>

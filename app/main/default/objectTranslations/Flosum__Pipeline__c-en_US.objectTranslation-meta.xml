@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Build and Deploy Organizations --></label>
+        <name>Flosum__Build_and_Deploy_Organizations__c</name>
+    </fields>
+    <fields>
+        <label><!-- CI Mode --></label>
+        <name>Flosum__Deployment_Mode__c</name>
+        <picklistValues>
+            <masterLabel>DEPLOY</masterLabel>
+            <translation><!-- DEPLOY --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VALIDATE</masterLabel>
+            <translation><!-- VALIDATE --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- CI Deployment Style --></label>
+        <name>Flosum__Deployment_Style__c</name>
+        <picklistValues>
+            <masterLabel>CONTINUE ON FAILURE</masterLabel>
+            <translation><!-- CONTINUE ON FAILURE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>STOP ON FAILURE</masterLabel>
+            <translation><!-- STOP ON FAILURE --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Filter --></label>
+        <name>Flosum__Filter__c</name>
+        <picklistValues>
+            <masterLabel>All Components</masterLabel>
+            <translation><!-- All Components --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Commit Only</masterLabel>
+            <translation><!-- Commit Only --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Run Tests on Deployment --></label>
+        <name>Flosum__Run_Tests_on_Deployment__c</name>
+    </fields>
+    <fields>
+        <label><!-- Specified Tests --></label>
+        <name>Flosum__Specified_Tests__c</name>
+    </fields>
+</CustomObjectTranslation>

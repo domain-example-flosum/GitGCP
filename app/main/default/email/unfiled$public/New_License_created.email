@@ -1,0 +1,28 @@
+Dear Girish,
+
+A new license has been created.
+
+Package: {!sfLma__License__c.sfLma__Package__c}
+
+Package Version: {!sfLma__License__c.sfLma__Package_Version__c}
+
+Lead:{!sfLma__License__c.sfLma__Lead__c}
+First Name: {!Lead.FirstName}
+Last Name: {!Lead.LastName}
+Lead email: {!Lead.Email}
+
+{!sfLma__License__c.OwnerFirstName}
+{!sfLma__License__c.OwnerLastName}
+{!sfLma__License__c.OwnerEmail}
+{!sfLma__License__c.OwnerFullName}
+{!sfLma__License__c.OwnerTitle}
+
+Contact email: {!Contact.Email}
+
+Seats: {!sfLma__License__c.sfLma__Seats__c}
+
+Expiration date: {!sfLma__License__c.sfLma__Expiration_Date__c}
+
+Please reach out to them.
+
+Cheers.

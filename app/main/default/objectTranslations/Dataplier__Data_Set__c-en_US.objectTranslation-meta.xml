@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Filter --></label>
+        <name>Dataplier__Filter__c</name>
+        <relationshipLabel><!-- Data Sets --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Object Key Fields --></label>
+        <name>Dataplier__Key_Fields__c</name>
+    </fields>
+    <fields>
+        <label><!-- Masked Fields --></label>
+        <name>Dataplier__Masked_Fields__c</name>
+    </fields>
+    <fields>
+        <label><!-- Object API Name --></label>
+        <name>Dataplier__Object_API_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Object Fields --></label>
+        <name>Dataplier__Object_Fields__c</name>
+    </fields>
+    <fields>
+        <label><!-- Operation --></label>
+        <name>Dataplier__Operation__c</name>
+        <picklistValues>
+            <masterLabel>INSERT</masterLabel>
+            <translation><!-- INSERT --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UPSERT</masterLabel>
+            <translation><!-- UPSERT --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Query Where Clause --></label>
+        <name>Dataplier__Query__c</name>
+    </fields>
+    <layouts>
+        <layout>Data Set Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <description><!-- for test --></description>
+        <label><!-- DataSet --></label>
+        <name>Dataplier__DataSet</name>
+    </recordTypes>
+    <webLinks>
+        <label><!-- Count_Records --></label>
+        <name>Dataplier__Count_Records</name>
+    </webLinks>
+</CustomObjectTranslation>

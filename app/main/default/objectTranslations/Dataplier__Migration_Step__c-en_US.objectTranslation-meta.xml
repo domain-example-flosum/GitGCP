@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Failed --></label>
+        <name>Dataplier__Failed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Inserted --></label>
+        <name>Dataplier__Inserted__c</name>
+    </fields>
+    <fields>
+        <label><!-- Migration Job --></label>
+        <name>Dataplier__Job__c</name>
+        <relationshipLabel><!-- Migration Steps --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Migrated --></label>
+        <name>Dataplier__Migrated__c</name>
+    </fields>
+    <fields>
+        <label><!-- Object Name --></label>
+        <name>Dataplier__Object_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Order --></label>
+        <name>Dataplier__Order__c</name>
+    </fields>
+    <fields>
+        <label><!-- Execution Sequence Step --></label>
+        <name>Dataplier__Sequence_Step__c</name>
+        <relationshipLabel><!-- Migration Steps --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Space required (KB) --></label>
+        <name>Dataplier__Space_required__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Dataplier__Status__c</name>
+        <picklistValues>
+            <masterLabel>Canceled</masterLabel>
+            <translation><!-- Canceled --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Completed</masterLabel>
+            <translation><!-- Completed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Completed,queued: crossupdate</masterLabel>
+            <translation><!-- Completed,queued: crossupdate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Migrating</masterLabel>
+            <translation><!-- Migrating --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Preparing</masterLabel>
+            <translation><!-- Preparing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Queued</masterLabel>
+            <translation><!-- Queued --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Updating cross-references</masterLabel>
+            <translation><!-- Updating cross-references --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Updating self-lookups</masterLabel>
+            <translation><!-- Updating self-lookups --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Total records --></label>
+        <name>Dataplier__Total__c</name>
+    </fields>
+    <fields>
+        <label><!-- Updated --></label>
+        <name>Dataplier__Updated__c</name>
+    </fields>
+</CustomObjectTranslation>

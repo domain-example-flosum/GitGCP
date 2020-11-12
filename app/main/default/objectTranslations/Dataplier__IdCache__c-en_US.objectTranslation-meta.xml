@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- MappedIds --></label>
+        <name>Dataplier__MappedIds__c</name>
+    </fields>
+    <fields>
+        <label><!-- Execution Sequence --></label>
+        <name>Dataplier__SequenceId__c</name>
+        <relationshipLabel><!-- IdCache --></relationshipLabel>
+    </fields>
+</CustomObjectTranslation>

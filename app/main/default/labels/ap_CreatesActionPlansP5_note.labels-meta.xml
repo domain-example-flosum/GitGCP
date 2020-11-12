@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ap_CreatesActionPlansP5_note</fullName>
+        <categories>Action Plans</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ap_CreatesActionPlansP5Note</shortDescription>
+        <value>Note that the Action Plan is now in the correct related list and that this account has two open activities.  The third activity in the template is dependent and will be created only when it&apos;s predecessor is complete.</value>
+    </labels>
+</CustomLabels>

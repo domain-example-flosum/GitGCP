@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Access Token --></label>
+        <name>Dataplier__AccessToken__c</name>
+    </fields>
+    <fields>
+        <label><!-- Authorised User --></label>
+        <name>Dataplier__AuthorisedUser__c</name>
+    </fields>
+    <fields>
+        <label><!-- Connected App Type --></label>
+        <name>Dataplier__Connected_App_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- Instance URL --></label>
+        <name>Dataplier__InstanceURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is Primary Org --></label>
+        <name>Dataplier__Is_Primary_Org__c</name>
+    </fields>
+    <fields>
+        <label><!-- Refresh Token --></label>
+        <name>Dataplier__RefreshToken__c</name>
+    </fields>
+</CustomObjectTranslation>

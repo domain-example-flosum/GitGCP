@@ -1,0 +1,11 @@
+Hi Girish,
+
+A duplicate lead has been created.
+
+Lead Name: {!sfLma__License__c.LeadName__c}
+Company Name: {!sfLma__License__c.Company_Name__c}
+Package Name: {!sfLma__License__c.Package_Name__c}
+Seats:  {!sfLma__License__c.sfLma__Seats__c}
+Email address: {!sfLma__License__c.LeadEmail__c}
+
+Thanks.

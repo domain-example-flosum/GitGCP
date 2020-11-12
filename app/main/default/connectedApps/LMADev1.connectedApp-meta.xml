@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>girish@flosum.com</contactEmail>
+    <label>LMADev1</label>
+    <oauthConfig>
+        <callbackUrl>https://localflosum.na74.visual.force.com/apex/localflosum__fl_registerflosumorg
+oob</callbackUrl>
+        <consumerKey>3MVG9CxwbdV68qJLeisSwL_iiNLHw49jQ6RsjA8JkPGB2Ge6s14YmPGwh6E4k0UX2o3q23zxz7RtkWMtxebAa</consumerKey>
+        <scopes>Basic</scopes>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>Full</scopes>
+        <scopes>Chatter</scopes>
+        <scopes>CustomApplications</scopes>
+        <scopes>RefreshToken</scopes>
+        <scopes>OpenID</scopes>
+        <scopes>CustomPermissions</scopes>
+        <scopes>Wave</scopes>
+    </oauthConfig>
+</ConnectedApp>

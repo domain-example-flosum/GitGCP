@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Field --></label>
+        <name>Dataplier__Field__c</name>
+    </fields>
+    <fields>
+        <label><!-- Filter --></label>
+        <name>Dataplier__Filter__c</name>
+        <relationshipLabel><!-- Filter Lines --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- OperatorH --></label>
+        <name>Dataplier__OperatorH__c</name>
+    </fields>
+    <fields>
+        <label><!-- Operator --></label>
+        <name>Dataplier__Operator__c</name>
+        <picklistValues>
+            <masterLabel>c</masterLabel>
+            <translation><!-- c --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>e</masterLabel>
+            <translation><!-- e --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>g</masterLabel>
+            <translation><!-- g --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>h</masterLabel>
+            <translation><!-- h --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>i</masterLabel>
+            <translation><!-- i --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>j</masterLabel>
+            <translation><!-- j --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>k</masterLabel>
+            <translation><!-- k --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>l</masterLabel>
+            <translation><!-- l --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>m</masterLabel>
+            <translation><!-- m --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>n</masterLabel>
+            <translation><!-- n --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>s</masterLabel>
+            <translation><!-- s --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>u</masterLabel>
+            <translation><!-- u --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>w</masterLabel>
+            <translation><!-- w --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>x</masterLabel>
+            <translation><!-- x --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Query --></label>
+        <name>Dataplier__Query__c</name>
+    </fields>
+    <fields>
+        <label><!-- Sequence --></label>
+        <name>Dataplier__Sequence__c</name>
+    </fields>
+    <fields>
+        <label><!-- Value --></label>
+        <name>Dataplier__Value__c</name>
+    </fields>
+</CustomObjectTranslation>
